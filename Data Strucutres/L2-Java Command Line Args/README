@@ -1,0 +1,12 @@
+# 
+# README
+# Kevin Duong
+# keduong
+# 12M - Lab2
+# April 5th, 2016
+# Simple README for Lab2
+#
+
+README            Table of contents for LAB2
+Makefile          Compiles FileReverse.java
+FileReverse.java  Reads input file and reverses content in output

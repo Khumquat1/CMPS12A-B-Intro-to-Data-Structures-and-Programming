@@ -1,0 +1,18 @@
+//-----------------------------------------------------------------------------
+// README
+// Kevin Duong
+// keduong
+// 12B - PA3
+// April 20th, 2016
+// Simple README for PA3
+//-----------------------------------------------------------------------------
+
+README                        table of contents for pa3
+Dictionary.java               method definitions for dictionary ADT, toString() done recursively
+DictionaryTest.java           Test file for Dictionary.java, misc. tests for each function in file
+DuplicateKeyException.java    Throws exception for attempted interaction with duplicate key
+KeyNotFoundException.java     Throws exception for attempted interaction with nonexistent key
+DictionaryInterface.java      from examples - unchanged
+DictionaryClient.java         from examples - unchanged
+Makefile                      Makefile for PA3 using wildcards and pattern sub. from examples
+

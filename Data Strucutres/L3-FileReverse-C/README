@@ -1,0 +1,12 @@
+# 
+ README
+ Kevin Duong
+ keduong
+ 12M - lab3
+ April 11th, 2016
+ Readme for lab3
+#
+
+README          Table of contents for lab2
+Makefile        Macro based makefile for lab2
+FileReverse.c   C equivalent of FileReverse.java(lab2), takes input file and reverses tokens in an output file 

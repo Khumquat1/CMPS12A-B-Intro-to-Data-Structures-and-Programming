@@ -1,0 +1,13 @@
+# -----------------------------------------------------------------------------
+# README
+# Kevin Duong
+# keduong
+# 12M - Lab4
+# April 25th, 2016
+# README for Lab4
+# -----------------------------------------------------------------------------
+
+README       Table of contents for Lab4
+Makefile     Simple makefile for Lab4 using macros
+charType.c   Takes two user prompted args, reads from first, categorizes input,
+             then prints to output file

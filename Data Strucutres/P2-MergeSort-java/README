@@ -1,0 +1,12 @@
+#
+ README
+ Kevin Duong
+ keduong
+ 12B - PA2
+ April 11th, 2016
+ README for PA2
+#
+
+README          Table of contents for PA2
+Makefile        Simple macro makefile
+Search.java     Takes an input file and target(s) and returns if target is found and line number

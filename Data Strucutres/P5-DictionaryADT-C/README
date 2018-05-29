@@ -1,0 +1,16 @@
+README
+Kevin Duong
+keduong
+May 20th, 2016
+12B - Pa5
+Table of Contents
+
+
+
+
+README                 Table of contents for PA5
+Dictionary.c           Dictionary ADT in C using hash table
+Dictionary.h           unchanged
+DictionaryClient.c     unchanged
+DictionaryTest.c       Test client for Dictionary.c
+Makefile               Simple macro based makefile for pa5

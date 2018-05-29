@@ -1,0 +1,11 @@
+/* 
+  Kevin Duong
+  keduong
+  12B - PA1
+  March 31, 2016
+  Readme file for pa1
+*/
+
+README          Simple table of contents for PA1
+Recursion.java  Uses recursion to find indices of extrema and reverses array in three ways
+Makefile        Simple makefile for PA1

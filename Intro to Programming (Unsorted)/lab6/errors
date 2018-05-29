@@ -1,0 +1,11 @@
+# errors
+# Kevin Duong
+# keduong
+# lab6
+# This contains observed errors in executable file LetterHome.class
+#-----------------------------------------------------------------------
+1.) Syntax Error: Output: "I have to buy another books for one of my classes." - books should be book.
+2.) Syntax Error: Output: "Thanks for the stuff you sent" - missing ending period.
+3.) Syntax Error: Output: "I plan to come home for a visit last weekend." - "last" should be "next".
+4.) Syntax Error: Input: 2 4 - Both inputs of 3 and 4 for line 2 give "hot", though 4 should give "cold".
+5.) Syntax Error: Output: "x is a valid sentence code." When x>5, should be read is "is not a valid .." 

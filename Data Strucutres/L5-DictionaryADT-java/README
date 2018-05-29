@@ -1,0 +1,10 @@
+#README for Lab5
+
+README              Readme for lab5
+Makefile            Makefile for lab5
+Dictionary.c        Dictionary ADT in C
+DictionaryTest.c    Created test file
+Dictionary.h        Unchanged
+DictionaryClient.c  Unchanged
+
+

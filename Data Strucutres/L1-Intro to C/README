@@ -1,0 +1,13 @@
+/*
+   README
+   Kevin Duong
+   keduong
+   CS12B
+   March 28th, 2016
+   README for lab1
+*/
+
+README           Basic table of contents for lab1           
+Makefile         Creates and archives HelloUser.java and HelloUser2.java in executable jar file Hello using macros
+HelloUser.java   Prints environment information to stout, taken from EXAMPLES from CS12B website
+HelloUser2.java  Prints greeting and time/date

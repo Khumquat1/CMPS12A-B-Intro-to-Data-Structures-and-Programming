@@ -1,0 +1,21 @@
+/afs/cats.ucsc.edu/users/o/keduong/cs12a/lab2
+
+Access list for public is
+Normal rights:
+  system:operator rlidwk
+  system:authuser rlid
+  system:anyuser rl
+  keduong rlidwka
+
+Access list for private is
+Normal rights:
+  keduong rlidwka
+
+total 7
+-rw-r--r--. 1 keduong users  426 Jan 11  2016 HelloWorld.class
+drwxr-xr-x. 2 keduong users 2048 Jan 11  2016 private
+-rwx------. 1 keduong users  193 Jan 11  2016 prog
+drwxr-xr-x. 2 keduong users 2048 Jan 11  2016 public
+-rw-r--r--. 1 keduong users  236 Jan 24 22:38 result
+
+Hello, lab2!

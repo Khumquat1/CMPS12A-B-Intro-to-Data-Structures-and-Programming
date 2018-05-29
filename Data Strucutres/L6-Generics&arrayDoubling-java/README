@@ -1,0 +1,14 @@
+README 
+Kevin Duong
+keduong
+May 20th, 2016
+12M - lab6
+Table of Contents
+
+README                                   Table of contents for lab6
+Makefile                                 Makefile from examples, slightly altered
+List.java                                Implements generics and arraydoubling
+ListClient.java                          Unchanged
+ListIndexOutOfBoundsExceptions.java      Unchanged
+ListInterface.java                       Unchanged
+ListTest.java                            Test class for List

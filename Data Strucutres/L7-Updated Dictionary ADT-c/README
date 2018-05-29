@@ -1,0 +1,16 @@
+README
+Kevin Duong
+keduong
+12M-Lab7
+May 30th,2016
+read me file
+
+
+README                         Simple table of contents for lab7
+Makefile                       Simple readme for lab7
+Dictionary.java                Java version of Dictionary.c in BST example
+DictionaryClient.java          Unchanged
+DictionaryInterface.java       Unchanged
+KeyNotFoundException.java      Unchanged
+DuplicateKeyException.java     Unchanged
+
